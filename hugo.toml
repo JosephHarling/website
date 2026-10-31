@@ -1,0 +1,26 @@
+baseURL = 'https://www.harlinglabs.com/'
+locale = 'en-gb'
+title = 'Harling Labs'
+theme = 'PaperMod'
+
+[menus]
+
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/posts'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Projects'
+    pageRef = '/projects'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Store'
+    pageRef = '/store'
+    weight = 30
+
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 40

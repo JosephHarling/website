@@ -1,0 +1,4 @@
+baseURL = 'https://www.harlinglabs.com/'
+locale = 'en-gb'
+title = 'Harling Labs'
+theme = 'PaperMod'
